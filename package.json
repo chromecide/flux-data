@@ -1,0 +1,14 @@
+{
+  "name": "flux-data",
+  "version": "1.0.0",
+  "description": "Top Down Data Library",
+  "author": "Justin Pradier <chromecide@chromecide.com>",
+  "keywords": [
+    "chromecide",
+    "flux-data",
+    "Top Down Data"
+  ],
+  "dependencies": {
+    "mysql": "~2.5.4"
+  }
+}
