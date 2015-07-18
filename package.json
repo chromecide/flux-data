@@ -8,7 +8,5 @@
     "flux-data",
     "Top Down Data"
   ],
-  "dependencies": {
-    "mysql": "~2.5.4"
-  }
+  "dependencies": {}
 }
